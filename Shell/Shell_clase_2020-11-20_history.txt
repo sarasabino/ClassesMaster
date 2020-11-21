@@ -1,0 +1,800 @@
+echo $SHELL
+echo $TERM
+whoami
+echo $USER
+echo $HOST
+printenv
+clear
+echo HOLI
+echo $HOLLLLLLLLL
+clear
+echo '$HOST'
+echo "$HOST"
+echo date
+date
+echo today is $(echo date)
+echo today is $(date)
+echo today is $(echo $(date))
+clear
+echo "the world is finally\
+"
+echo "the world\
+is fun"
+echo "hoy esss \ viernes"
+echo "quiero poner \"Moby Dick\""
+clear
+echo "dos \n lineas"
+echo "un \t tabulado" 
+echo holi ; echo guapi
+echo $(ls)
+for f in $(ls); "there is $f"
+clear
+cat/etc/os-release
+cat /etc/os-release
+cd
+cd Data/shell/
+cd Data/shell
+LS
+ls
+cat Text_example.tct
+cat Text_example.txt
+cat Text_example.txt cat Text_example.txt
+cat -n  Text_example.txt cat Text_example.txt
+cat -n  Text_example.txt cat -n  Text_example.txt
+pwd
+Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±
+clear
+?  
+ccccccccccccccccccccccccccccccccccccccccccccle
+clear
+cd /home/dsc
+clear
+cd Data/shell
+cd . 
+cd ..
+cd -
+cd - 
+ls
+clear
+ls
+ls - a 
+ls -a
+pwd
+/
+cd -
+cd - 
+cd ..
+pwd
+ls -a
+ls -1
+ls -1 -s
+ls --help
+ls -lsH
+ls -1
+ls -1 -l
+ls -la
+ls -Sr
+ls -laSr
+ls -aSr
+ls -Sr
+ls
+ls Sr
+clear
+chmod 777.history
+ls -l .history
+chmod 777 .history
+ls -l .history
+chmod 600 .history
+ls -l .history
+clear
+mkdir holiguapi
+ls
+mkdir -p holiguapi/cosas/random
+ls
+touch newfile
+ls -l
+touch anaconda3
+ls
+ls -l
+cp newfile holiguapi/cosas/random
+ls
+cd /holiguapi
+ls
+pwd
+holiguapi
+mv holiguapi toguapo
+ld
+ls
+rm -rf  toguapo
+ls
+cd/holiguapi
+cp newfile holiguapi
+ls
+rm -rf holiguapi
+ls
+cp first_dir
+cp --help
+mkdir first_dir
+ls
+touch text_file.txt
+cp text_file first_dir
+cp text_file.txt first_dir
+ls
+first_dir/text_file.txt
+first_dir ls
+chmod 777 first_dir
+chmod --help
+chmod -c first_dir
+chmod -cfirst_dir
+chmod777 text_file.txt
+chmod 777text_file.txt
+chmod--help
+chmod --help
+cp first_dir/sub1
+cp --help
+mkdir first_dir/ directorio_1
+mkdir directorio_1
+ls
+mv text_file.txt
+mv --help
+cp prueba_1 first_dir
+ls
+cp prueba/first_dir/
+cp -r prueba/first_dir
+cp -r text_file.txt first_dir/
+ls
+mv --help
+chmod 775 text_file.txt
+ls -l text_file.txt
+mkdir -p sub_1/first_dir
+mkdir -p first_dir/sub1/sub2
+pc rexr_file.txt first_dir/sub1/sub2
+cp rexr_file.txt first_dir/sub1/sub2
+cp text_file.txt first_dir/sub1/sub2
+ls
+mv first_dir/sub1/sub2/text_file.txt 
+git
+clear
+git config --global user.sara
+git config --global user.name "Sara Sabino"
+git config --global user.email "sarasabino@gmail.com"
+cat home/.git/config
+git clone https://github.com/sarasabino/kschool-master26.git
+.git/
+ls
+touch chachifile
+cd kchool-master26
+cd kschool-master26
+touch chachifile
+git status
+git add chachifile
+git status
+git commit -m 'Add un archivo chachi'
+git statys
+git status
+git push
+git status
+git diff
+mkdir Repos
+cd Repos
+git clone [200~https://github.com/sarasabino/master_26_clase.git
+git clone https://github.com/sarasabino/master_26_clase.git
+ls
+git clone https://github.com/sarasabino/master_26_clase.git master_26_copy
+ll
+cd master_26_clase
+ll -a
+gedit RADME.md
+gedit README.md
+git status
+git add README.md
+git status
+git commit
+git log
+git push
+git add RADME.md
+git commit -m "New file edit"
+git push
+~/Repos
+~
+pwd
+cd ~
+pwd
+cd ~/Repos
+pwd
+git init master_from_local
+ll
+cd master_from_local
+ll -a
+cd ..
+cd
+cd Repos
+cd master_from_local
+touch my_ideas.txt
+gedit my_ideas.txt
+git add my_ideas.txt
+git commit -m "my initial idea"
+gedit my_second_ideas.txt
+git status
+git log
+gedit my_ideas.txt
+git status
+git add -u
+git status
+git add my_second_ideas.txt
+git status
+git commit -m "second idea added"
+git log
+git remote add origin https://github.com/sarasabino/My_ideas.git
+git branch -M main
+git push -u origin main
+git pull
+git log
+cd
+man cp
+cat --help
+less .gitconfig
+cd
+alias
+type ll
+ll
+MASTER=kschool
+echo $MASTER
+alias gc="git commit -m"
+gc test
+less .zshrc
+les .zshrc
+less .zshrc
+echo $MASTER
+type ls
+type python
+which python
+whereis python
+sudo which python
+clear
+pwd
+which python
+which pip
+clear
+cd Data/shell
+head Finn.txt
+head -5 Finn.txt
+head -n 5 Finn.txt
+head -n -5 Finn.txt
+tail -5 Finn.txt
+tail -n 5 Finn.txt
+tail -n +5 Finn.txt
+wc Finn.txt
+wc -l Finn.txt
+echo "HELP ME"
+echo "HELP ME" | wc
+wc Text_example.txt
+cat Text_example.txt
+cat Text_example.txt | wc
+cat Text_example.txt | head  | wc
+cat Text_example.txt | head -3 | wc
+head -3 Text_example.txt | wc
+cat Text_example.txt | wc
+cat Text_example.txt | wc > salida
+cat salida
+cat Text_example.txt | wc > salida
+cat salida
+cat Text_example.txt | wc >> salida
+cat Text_example.txt
+cat salida
+wc < Text_example.txt
+wc Text_example.txt
+cd ~
+cd ~/Data/opentraveldata
+ll
+ls -S
+cat optd_por_public.csv
+cat head -5 optd_por_public.csv
+head 5 optd_por_public.csv
+head -5 optd_por_public.csv
+head -5 optd_por_public.csv > quick_exercises
+cat quick_exercises
+cd ~
+~/Data/shell/
+pwd
+cd ~/Data/shell
+pwd
+head -5 Finn.txt
+head -5 Finn.txt | wc
+head -5 Finn.txt | wc -l
+head -5 Text_example.txt | cat -N
+head -5 Text_example.txt | cat -n
+cd ~/Data/opentraveldata
+ls
+ls -N
+ll optd_aircraft.csv
+ll optd_aircraft.csv >> quick_exercises
+ll -help
+man ll
+cd Repos
+cd ~
+cd Repos
+pwd
+git init ClasesMaster
+cd ClasesMaster
+mkdir Shell
+mkdir Python
+mkdir Challenge
+cd Shell
+pwd
+cat ~/.history > Shell_clase_2020-11-14.txt
+ll
+gedit Shell_clase_2020-11-14.txt
+git add Shell_clase_2020-11-14.txt
+cd ..
+git status
+git commit -m"commands ls, cat, pipe,head,tail,less"
+git status
+git remote add origin https://github.com/sarasabino/ClassesMaster.git
+git branch -M main\
+git push -u origin main
+clear
+find | wc
+find | wc -l
+find . -name "text_file*"
+find . -name "Text_file*"
+find . -name "text_file*"
+cd
+find . -name "text_file*"
+pwd
+find . -iname "tExt_file*"
+find .-type d -iname "tExt_file*"
+find . -type d -iname "tExt_file*"
+find . -type f -iname "tExt_file*"
+find . -type f -maxdepth 5 -iname "tExt_file*"
+find . -type f -maxdepth 5 -mindepth 2 -iname "tExt_file*"
+find .  -maxdepth 5 -mindepth 2 -type f -iname "tExt_file*"
+find .  -type f -perm 777
+find .  -type f erm 777
+find .  -type f ! -perm 777
+find .  -type f empty | wc -l
+find .  -type f -size 0 | wc -l
+find .  -type f -size +10M | wc -l
+sudo find .  -type f -size +10M | wc -l
+find .  -type f -size +10M | wc -l
+find .  -type f -mmin -60
+find .  -type f -mmin -60 | wc -l
+find .  -type f -mmin -1 | wc -l
+find .  -type f -mmin -1 
+find .  -type f -mmin -1 | wc -l
+sudo find -type f -inmae "text_file*"
+sudo find -type f -iname "text_file*"
+sudo find -type f -iname "text_file*" | wc
+sudo find -type f -iname "text_file*" -exec echo "FOUND IT" \;
+sudo find -type f -iname "text_file*" -exec echo "FOUND IT"
+echo this \; echo that
+echo this ; echo that
+sudo find -type f -iname "text_file*"
+sudo find -type f -iname "text_file*" -exec echo ls -l {} \;
+sudo find -type f -iname "text_file*" -exec ls -l {} \;
+sudo find -type f -iname "text_file*" -exec ls -l {} \; -exec head -2 {} \;
+sudo find -type f -iname "text_file*" -ok ls -l {} \;
+sudo find -type f -iname "text_file*" -exec head -2 {} | wc  \;
+sudo find -type f -iname "text_file*" -exec "head -2 {} | wc"  \;
+sudo find -type f -iname "text_file*" -exec head -2 {} | wc  \;
+sudo find -type f -iname "text_file*" -exec "head -2 {} | wc"  \;
+bash -c "echo This"
+bash -c "cd .. / ; ls - l"
+bash -c "cd .. / ; ls -l"
+sudo find -type f -iname "text_file*" -exec bash -c  "head -2 {} | wc"  \;
+sudo find -type f -mmin 60
+sudo find .  -type f -mmin 60
+find .  -type f -mmin -60
+ls
+ls -l
+find .  -type f -size 0 
+find .  -type f -size 0 | wc
+find .  -type f -size 0 | ls -l
+find .  -type f -size - 0 | ls -l
+find .  -type f -empty | ls -l
+find .  -type f -empty
+find .  -type f -empty | ls -l
+find .  -type f -size -0K | ls -l
+find .  -type f -empty | ls -l
+find .  -type f -empty \! -perm 070 | ls -l
+find . -type f -empty \! -perm 777 | ls -l
+cd ~/Data
+find . -type f -exec ls -l {} \;
+find . -type f -exec ll {} \;
+find . -type f -exec ls -l {} \;
+find  -type f -exec ls -l {} \;
+cd Repos
+pwd
+cd ~
+cd Repos
+pwd
+ll
+cd Shell
+cd ClasesMaster
+cd Shell
+ll
+cat ~/.history > Shell_clase_2020-11-14-2.txt
+ll
+git add Shell_clase_2020-11-14-2.txt
+git commit -m"updated"
+git push
+cd first_dir
+pwd
+git status
+cd Repos
+cd ~
+pwd
+~/Repos
+cd/Repos
+cd Repos
+pwd
+git status
+gedit RADME
+git status
+git commit
+git clone https://github.com/sarasabino/My_ideas.git
+ll
+git status
+Repos/My_ideas
+~/Repos/My_ideas
+sudo ~/Repos/My_ideas
+pwd
+cd ~/Repos/My_ideas
+git status
+gedit my_ideas
+git status
+git add my_ideas
+git status
+git commit
+git commit -m"new message"
+git status
+find ~/Data -type d
+clear
+cd books
+mkdir cool_books
+clear
+seq 1 10
+seq 10 10
+seq 1 2 10
+seq 1 2 10 > uniq example.txt
+seq 1 2 10 > uniq_example.txt
+seq 1 10 > uniq_example.txt
+cat uniq_example.txt
+uniq uniq_example.txt
+sort uniq_example.txt
+sort -n  uniq_example.txt
+sort uniq_example.txt | uniq 
+sort -u uniq_example.txt
+sort uniq_example.txt | uniq -d
+sort uniq_example.txt | uniq -c
+cd ../Data/opentraveldata
+ll
+less optd_
+less
+sort -t "^" -k 6,6 optd_aircraft.csv| head
+sort -t "^" -k 6r,6 optd_aircraft.csv| head
+sort -t "^" -k 6r,6 -k 4,4 optd_aircraft.csv| head
+sort -t "^" -k 6r,6 -k 4n,4 optd_aircraft.csv| head
+head optd_aircraft.csv
+sort -t "^" -k 2,2 -u optd_aircraft.csv
+sort -t "^" -k 2,2 -u optd_aircraft.csv |wc -l
+seq 15> 20lines.txt; seq 9 1 20 >> 20lines.txt; echo"20\n20" >> 20lines.txt
+seq 15> 20lines.txt; seq 9 1 20 >> 20lines.txt; echo 20\n20 >> 20lines.txt
+cat 20lines.txt
+sort 20lines.txt
+sort -n 20lines.txt
+sort -n -d 20lines.txt 
+sort -d 20lines.txt 
+sort -n -u 20lines.txt 
+sort -n 20lines.txt | uniq -u
+sort -u 20lines.txt | uniq -n
+sort -n 20lines.txt | uniq -u
+sort -n 20lines.txt | uniq -c
+sort -n 20lines.txt | uniq -d
+sort -n 20lines.txt | uniq -d -c
+sort -n 20lines.txt | uniq -d -c |sort -nr
+head optd_aircraft.csv
+sort -t "^" -k 7,7 optd_aircraft.csv
+sort -t "^" -k 7r,7 optd_aircraft.csv
+sort -t "^" -k 7r,7 optd_aircraft.csv | head
+sort -t "^" -k 7rn,7 optd_aircraft.csv | head
+sort -t "^" -k 7rn,7 optd_aircraft.csv | head -1
+cut -d "^" -f 1,3-5 optd_aircraft.csv| head 
+cut -d "^" -f 1 optd_aircraft.csv
+cut -d "^" -f 1,3-5 --output-delimiter="," optd_aircraft.csv| head 
+cut -d "^" -f 1,3-5 --output-delimiter="OMG" optd_aircraft.csv| head 
+seq 1 10>numbers
+clear
+seq 1 10>numbers
+cat numbers
+paste numbers
+cat numbers numbers
+~
+cd ~/Data/shell
+cd ../
+~/Data/opentraveldata
+cd ~/Data/opentraveldata
+paste -s numbers
+paste -s -d "^"  numbers
+cd text.txt
+paste numbers 20lines.txt
+wc < 20lines.txt
+wc <(cat 20lines.txt)
+paste <(seq 15) <(seq 10)
+paste <(seq 10 20) <(cat 20lines.txt)
+seq a d
+seq "a" "d"
+head -1 optd_aircraft.csv
+head -1 optd_aircraft.csv | wx
+head -1 optd_aircraft.csv | wc
+head -1 optd_aircraft.csv | tr "^" "/n"
+head -1 optd_aircraft.csv | tr "^" "\n"
+paste <(seq 10) <(head - 1 optd_aircraft.csv | tr "^" "\n")
+~/Data/opentraveldata
+cd ~/Data/opentraveldata
+paste <(seq 8) <(head -1 optd_aircraft.csv| tr "^" "\n")
+echo "master data science" | tr as sa
+echo "master data science" | tr a A
+echo "master data science" | tr -d s
+echo optd_aircraft.csv | tr "^" ","
+cat optd_aircraft.csv | tr "^" ","| head -1
+cat optd_aircraft.csv | tr "^" "\n"| head -1| wc
+cat optd_aircraft.csv | tr "^" "\n"| head -1|\
+cat optd_aircraft.csv | tr "^" "\n" | head -1
+cat optd_aircraft.csv | tr "^" "\n"| head -1
+cat optd_aircraft.csv | tr "^" "\n"| head -1 | wc
+cat optd_aircraft.csv | tr "^" "\n"| head | wc
+cat optd_aircraft.csv | tr "^" "\n"
+cat optd_aircraft.csv | tr "^" "\n"|head -1
+cat optd_aircraft.csv | head -1 | tr "^" "\n"
+cat optd_aircraft.csv | head -1 | tr "^" "\n"| wc
+cat optd_aircraft.csv | head -1 
+cut -d "^" 2 optd_aircraft.csv | tr "^" "\n" 
+cut -d "^" 2 optd_aircraft.csv
+cut -d "^" -f 2 optd_aircraft.csv | tr "^" "\n"
+cut -d "^" -f 2 optd_aircraft.csv | tr "^" "\n"| uniq -c
+cut -d "^" -f 2 optd_aircraft.csv | tr "^" "\n"| uniq -n -c
+cut -n "^" -f 2 optd_aircraft.csv | tr "^" "\n"| uniq -c
+cut -n "^" -f 2 optd_aircraft.csv | tr "^" "\n"| uniq -c | head -1
+cat optd_aircraft.csv | cut -d "^" -f 8,14 | head
+cat optd_aircraft.csv | cut -d "^" -f 8,14 | head | sort -t "^" -k 2nr,2
+cat optd_aircraft.csv | cut -d "^" -f 8,14 | sort -t "^" -k 2nr,2|head -1
+cat optd_airlines.csv | cut -d "^" -f 8,14 | sort -t "^" -k 2nr,2|head -1
+cat -d "^" -f 10 optd_airlines.csv | head
+cut -d "^" -f 10 optd_airlines.csv | head
+cat -d "^" -f 10 optd_airlines.csv | sort
+cat -d "^" -f 10 optd_airlines.csv | sort -d
+cat -d "^" -f 10 optd_airlines.csv | sort | unique -c
+cat -d "^" -f 10 optd_airlines.csv| sort| unique -c
+cat -d "^" -f 10 optd_airlines.csv| sort
+cut -d "^" -f 10 optd_airlines.csv| sort| uniq -c
+clear
+cd ~/Data/shell
+grep this Text_example.txt
+grep -v this Text_example.txt
+grep -v -n  this Text_example.txt
+grep this Text_example.txt 
+grep -i this Text_example.txt Finn.txt
+grep -i -n this Text_example.txt Finn.txt
+grep -i -n this Text_example.txt
+grep -v -n this Text_example.txt
+grep -v -n this Text_example.txt Finn.txt
+grep -n this Text_example.txt
+grep -n -B1 this Text_example.txt
+grep -n -C1 this Text_example.txt
+grep -n -w this Text_example.txt
+grep -n -w line  Text_example.txt
+grep -E "^T"
+cd ~/Data/Shell 
+cd ~/Data/shell 
+grep -E "^T" Text_example.txt
+grep -E "T" Text_example.txt
+clear
+echo Sunday | sed  ssdaynights
+echo Sunday | sed ssdaysnights
+echo Sunday | sed "s/day/night/"
+echo Sunday.day | sed s/day/night/
+echo Sunday.day | sed s/day/night/g
+sed 's/this/THAT/g' Text_example.txt
+sed 's/this/THAT/gI' Text_example.txt
+cp Text_example.txt Text_example_copy.txt
+sed -i 's/this/THAT/gI' Text_example_copy.txt
+cat Text_example_copy.txt
+seq 5
+seq 5 | sed -n '2p'
+seq 5 | sed '2p'
+seq 5 | sed '2p;4p'
+seq 5 | sed -n '2;4p'
+seq 5 | sed -n '2,4p'
+seq 5 | sed '3d'
+sed -i '3d' Text_example_copy.txt
+cat Text_example_copy.txt
+cat -n Text_example_copy.txt
+sed '/lines/d' Text_example_copy.txt
+sed -n '/lines/d' Text_example_copy.txt
+cat Text_example
+cat Text_example_copy.txt
+sed -i '/lines/d' Text_example_copy.txt
+cat Text_example_copy.txt
+cat -n Text_example_copy.txt
+sed 's/line/\n' Text_example.txt
+sed 's/line/'\n'' Text_example.txt
+sed '/line/'\n'' Text_example.txt
+sed s/line/'\n' Text_example.txt
+sed /line/\n
+~Data/shell
+cd ~/Data/shell
+sed "hola" s/h/l
+sed hola "s/h/l"
+sed hola s/h/l
+echo hola | sed s/h/l
+echo hola | sed "s/h/l"
+echo hola | sed shs
+echo hola | sed /h/s
+echo hola | sed s/h/s
+echo Sunday | sed s/day/night/g
+cat Text_example.txt
+sed s/line/\n Text_example.txt
+sed "s/line/\n" Text_example.txt
+sed "s/line/n" Text_example.txt
+sed s/line/n Text_example.txt
+sed /line/n Text_example.txt
+sed /line/n/g Text_example.txt
+sed s/line/n/g Text_example.txt
+sed s/line/\n/g Text_example.txt
+sed s/line/"\n"/g Text_example.txt
+sed -n 
+sed -n Text_example.csv
+pwd
+cat Text_example.txt
+sed 's/line/\n/'
+~/Data/shell
+cd ~/Data/shell
+sed 's/line/\n/g' Text_example.txt
+sed '/line/p' Text_example.txt 
+sed -n '/line/p' Text_example.txt 
+sed -n '/line/!p' Text_example.txt 
+sed -n '/line/!pI' Text_example.txt 
+sed -n '/line/!p' Text_example.txt 
+cd
+cd Repors
+cd Repos
+ll
+cd ClasesMaster
+ll
+git pull
+cd Shell
+ll
+cd ~/Data/shell
+cd ~/Repos/ClasesMaster/Shell
+gedit Shell_clase_2020-11-20.txt
+ll
+git add Shell_clase_2020-11-20.txt
+git status
+git commit -m "short, uniq, cut, paste, grep, sed, tr"
+git push
+cd ..
+ll
+cp -r ClasesMaster ClasesMaster_test
+cd ClasesMaster_test
+git ls-files
+ll
+touch shell.backup
+git status
+touch .gitignore
+echo '*backup' >>.gitignore
+git status
+echo '*~' >>.gitignore
+git add .gitignore
+git commit -m "added .gitignore"
+git status
+ll
+cd Shell
+gedit Shell_clase_2020-11-20.txt
+git add -u
+git status
+gedit Shell_clase_2020-11-20.txt
+git status
+cd ..
+cp -r ClasesMaster_test ClasesMaster_test2
+cp -r ClasesMaster_test ClasesMaster_test3
+cp -r ClasesMaster_test ClasesMaster_test4
+cd ClasesMaster_test2
+git status
+git add -u
+git status
+cd ..
+cd ClasesMaster_test3
+git status 
+git checkout -- Shell/Shell_clase_2020-11-20.txt
+git status
+cd ..
+cd ClasesMaster_test4
+git status
+git reset --hard HEAD
+git log
+git push
+cd ..
+~/Repos/ClasesMaster
+cd ~/Repos/ClasesMaster
+git pull
+gedit Shell/Shell_clase_2020-11-20.txt
+git log
+git status
+git reset --hard origin/main
+rm Shell/Shell_clase_2020-11-20.txt
+git checkout Shell/Shell_clase_2020-11-20.txt
+git log
+git checkout 865d646527a2a11440353f99d50ac3b5c52c3683 Shell/Shell_clase_2020-11-14.txt
+git checkout eed5f3142e82757fd49b33b7ceeb7630d8aedf2a Shell/Shell_clase_2020-11-20.txt
+git status
+clear
+cd 
+cd Data/shell
+ll
+zip text_files. Finn.txt Text_example.txt
+ll
+zip text_files.zip Finn.txt Text_example.txt
+ll
+rm text_files.
+ll
+zcat text_files.zip
+zcat text_files.zip | less
+zipinfo text_files.zip
+zless text_files.zip 
+zgrep "Finn" text_files.zip 
+mkdir unzipped
+mv text_files.zip unzipped
+cd unzipped
+unzip text_files.zip
+ll
+cd ..
+gzip Finn.txt Text_example.txt
+ll
+gunzip Finn.txt.gz Text_example.txt.gz
+ll
+bzip2 Finn.txt Text_example.txt
+ll
+bunzip2 Finn.txt.bz2 Text_example.txt.bz2
+ll
+tar -czvf text_files.tar *txt
+ll
+mkdir untar
+mv text_files.tar untar
+ll
+cd untar
+ll
+tar -xvf text_files.tar
+ll
+cat ~/.history > Shell_clase_2020-11-14-2.txt
+cat ~/.history > Shell_clase_2020-11-20-2.txt
+paste <(seq 8) <(head -1 optd_aircraft.csv| tr "^" "\n")
+cd ~/Data/opentraveldata
+paste <(seq 8) <(head -1 optd_aircraft.csv| tr "^" "\n")
+touch column_name_number.sh
+gedit column_name_number.sh
+bash ./column_name_number.sh
+./column_name_number.sh
+chmod 777 column_name_number.sh
+./column_name_number.sh
+gedit column_name_number.sh
+which bash
+./column_name_number.sh
+gedit column_name_number.sh
+./column_name_number.sh optd_aircraft.csv
+gedit column_name_number.sh
+./column_name_number.sh optd_aircraft.csv
+echo $0
+gedit column_name_number.sh
+./column_name_number.sh optd_aircraft.csv
+gedit column_name_number.sh
+./column_name_number.sh optd_aircraft.csv "^"
+gedit column_name_number.sh
+./column_name_number.sh
+./column_name_number.sh optd_aircraft.csv "^"
+cd
+cd Shell
+cd Repos
+cd ClasesMaster
+cd Shell
+cat ~/.history > Shell_clase_2020-11-20_history.txt
